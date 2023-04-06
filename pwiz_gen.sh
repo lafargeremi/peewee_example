@@ -1,0 +1,1 @@
+python -m pwiz -e sqlite3 example.db > models_auto_gen.py
