@@ -1,0 +1,1 @@
+A small minimalistic usecase of peewee realised to present ORM.
